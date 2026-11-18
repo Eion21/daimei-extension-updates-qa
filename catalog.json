@@ -1,0 +1,25 @@
+{
+  "protocol": "daimei-novel-distribution",
+  "schemaVersion": 2,
+  "repository": "Daimei update QA",
+  "extensions": [
+    {
+      "packageName": "app.novel.extension.fixture.update",
+      "longVersionCode": 1,
+      "versionName": "1.0.0",
+      "novelApi": "1.0",
+      "entryClasses": [
+        "app.novel.extension.fixture.update.UpdateFixtureSource"
+      ],
+      "minSdk": 26,
+      "artifact": {
+        "url": "https://raw.githubusercontent.com/Eion21/daimei-extension-updates-qa/056fe8cf40390d93c668aee2f99eb86373c75a0b/fixture-v1.apk",
+        "size": 68169,
+        "sha256": "39901c7e77851ebddb9ba6ceb0e4932ad8b3ba4dec5c2de9d5610c3863dd28c4"
+      },
+      "currentSigners": [
+        "5699dd1c6cdab4cef327e63419b83037997e201e9ed8b091126c20208d4fa4df"
+      ]
+    }
+  ]
+}
